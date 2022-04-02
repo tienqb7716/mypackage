@@ -14,9 +14,6 @@
     "require": {},
     "require-dev": {},
     "autoload": {
-        "classmap": [
-            "database"
-        ],
         "psr-4": {
             "Tienqb7716\\Mypackage\\": "src/"
         }
